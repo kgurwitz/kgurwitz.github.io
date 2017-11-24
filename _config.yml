@@ -1,5 +1,17 @@
-title: Cayman theme
-description: Cayman is a clean, responsive theme for GitHub Pages.
+title: Kim's Site
+description: My first site
 show_downloads: true
-google_analytics:
 theme: jekyll-theme-cayman
+url: kgurwitz.github.io
+
+# Social Media
+
+twitter_username: kgurwitz
+github_username:  kgurwitz
+
+# Build settings
+markdown: kramdown
+
+# Google Services
+
+google_analytics:
